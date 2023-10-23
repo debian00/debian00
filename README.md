@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @debian00
-- 👀 I’m interested in Mycology, Technology and Politics
-- 🌱 I’m currently learning Python and Delphi
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Mycology, Technology and Geopolitics
+- 🌱 I’m currently learning Next.js, Typescript and Tailwind
 - 📫 How to reach me debianstark@gmail.com
 
 <!---
