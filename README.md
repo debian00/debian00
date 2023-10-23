@@ -4,7 +4,7 @@
 - 📫 How to reach me debianstark@gmail.com
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eact,nodejs,express,postgres,sequelize,bootstrap,css,dotnet,firebase,github,html,js,linux,mongodb,mysql,vercel,visualstudio,vite,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,sequelize,bootstrap,css,dotnet,firebase,github,html,js,linux,mongodb,mysql,vercel,visualstudio,vite,vscode" />
   </a>
 </p>
   
