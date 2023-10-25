@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @debian00
+- 👋 Hi, I’m Armando, also known as debian.
 - 👀 I’m interested in Mycology, Technology and Geopolitics
 - 🌱 I’m currently learning Angular, Next.js, Typescript and Tailwind
-- 📫 How to reach me debianstark@gmail.com
+- 📫 How to reach me: debianstark@gmail.com
 - Linkedin: https://www.linkedin.com/in/armandourbinadev/
 <p align="center">
   <a href="https://skillicons.dev">
